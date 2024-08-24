@@ -1,0 +1,17 @@
+{
+  "name": "my-arrays-methods",
+  "version": "1.0.1",
+  "description": "A utility package with helpful higher-order functions for arrays.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "utils",
+    "higher-order-functions"
+  ],
+  "author": "Uttam Patidar",
+  "license": "ISC"
+}
